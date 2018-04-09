@@ -1,0 +1,9 @@
+*.pyc
+.cache
+.pytest_cache
+
+Lib/
+Include/
+Scripts/
+pip-selfcheck.json
+pyvenv.cfg
